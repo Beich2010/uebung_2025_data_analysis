@@ -12,8 +12,8 @@ Google Colab is a free, cloud-based Jupyter notebook environment that allows you
 
 To open the notebook in Google Colab, follow these steps:
 1. Click on the following button:
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis)
-2. Select the notebook file (`excercise_2024_data_analysis.ipynb`) to Colab.
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Beich2010/uebung_2025_data_analysis)
+2. Select the notebook file (`excercise_2025_data_analysis.ipynb`) to Colab.
 3. Start running the cells.
 
 ### 2. Binder
@@ -22,8 +22,8 @@ Binder provides a way to create sharable, interactive notebooks that run in the 
 
 To open the notebook in Binder, follow these steps:
 1. Click on the following button:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2024_data_analysis/HEAD)
-2. Launch the environment and open the notebook file (`excercise_2024_data_analysis.ipynb`).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2025_data_analysis/HEAD)
+2. Launch the environment and open the notebook file (`excercise_2025_data_analysis.ipynb`).
 3. Start running the cells.
 
 ### 3. Local Environment
