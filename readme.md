@@ -1,6 +1,11 @@
-# Data Analysis Lecture 2024 - Exercise Notebook
+___
 
-Welcome to the exercise notebook for the Data Analysis Lecture of 2024. This repository contains all the materials and notebooks you will need to follow along with the course exercises.
+# Excercise "Datenanalyse für Ingenieure" SS2025 - Data analysis & Forecasting</span>
+___
+
+
+
+Welcome to the exercise notebook for the Data Analysis Lecture of 2025. This repository contains all the materials and notebooks you will need to follow along with the course exercises.
 
 ## Opening the Notebook
 
@@ -66,4 +71,4 @@ Happy analyzing!
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2024_data_analysis/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2025_data_analysis/HEAD)
