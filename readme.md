@@ -1,11 +1,13 @@
 ___
 
-# Excercise "Datenanalyse für Ingenieure" SS2025 - Data analysis & Forecasting</span>
+# Excercise "Datenanalyse für Ingenieure" SS2026 - Data analysis & Forecasting</span>
 ___
 
 
 
-Welcome to the exercise notebook for the Data Analysis Lecture of 2025. This repository contains all the materials and notebooks you will need to follow along with the course exercises.
+Welcome to the exercise notebook for the Data Analysis Lecture of 2026. This repository contains all the materials and notebooks you will need to follow along with the course exercises.
+
+This 2026 edition adds **Chronos 2** — a pre-trained foundation model for time series forecasting from Amazon Science — alongside the existing N-HiTS and Naive baselines, via the [sktime](https://www.sktime.net/) `Chronos2Forecaster` interface.
 
 ## Opening the Notebook
 
